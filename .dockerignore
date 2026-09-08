@@ -1,0 +1,16 @@
+# directories that create from IDE and VCS tools
+.github
+.git
+.idea
+
+
+# Config env files
+.env
+.env.docker
+.env.docker.example
+
+compose*.yaml
+
+
+
+
