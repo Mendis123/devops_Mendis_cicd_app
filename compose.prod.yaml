@@ -1,2 +1,10 @@
 services:
 
+#mysql
+
+#backend
+
+#nginx
+
+#volume handle for mysql
+

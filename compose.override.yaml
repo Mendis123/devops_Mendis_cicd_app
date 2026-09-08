@@ -1,2 +1,12 @@
 services:
+#mysql
+
+#backend
+
+#nginx
+
+#volume handle for mysql
+
+# test container config (jenkins setup)
+
 
